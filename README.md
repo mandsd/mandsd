@@ -5,8 +5,8 @@
 
 - 🎓 Studying Computer Science at Iesb, Federal District , Brazil
 - 📚 I’m currently learning Java
-- 📞 Open for project collaboration and internship opportunities
-
+- 🖥️ I currently work at [Senado Federal](https://www12.senado.leg.br/hpsenado) as Software Support
+  
 <br>
 
 
