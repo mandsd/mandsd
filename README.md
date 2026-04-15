@@ -23,10 +23,15 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript,mysql,postgres,git,react" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,html,css" />
   </a>
 </p>
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,mysql,postgres,git,react" />
+  </a>
+</p>
  
 <br>
 
